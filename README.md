@@ -1,6 +1,8 @@
 # GerenciarEstoque
 
-Segue o projeto de um Sistema para gerencia estoque
+dia 14/12/2016 ainda não concluído.
+faltando validações , movimentação dos produtos , relatórios.
+Segue o projeto de um Sistema para gerencia de um estoque
 Se faz necessário o mysql,
 Na classe ConnectionFactiory configurar o servidor , banco e senha criados
 bem como no banco de dados criar as tabelas, segue o script das tabelas:
