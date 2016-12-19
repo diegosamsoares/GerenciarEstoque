@@ -19,12 +19,19 @@
                 <li><a href="#">Gerenciar Estoque</a></li>     
                 <li><a href="#">Relatórios</a></li>               
                 <li><a href="#">Sobre</a></li>
+                  <li><a href="ProdutosSevlet?acao=AutenticaUsuario">Sair</a></li>
               </ul>
        
         </nav>
 
 
 <h1>Listagem de Produtos</h1>
+
+<form action="ProdutosSevlet" >
+<input type="hidden" name="acao" value="PesquisarProdutos">
+<input type="text" name="nome" value="Digite a descriçao!!"  onfocus="this.value=''"/>
+<input type="submit" value="Pesquisar">
+</form>
 
 
 

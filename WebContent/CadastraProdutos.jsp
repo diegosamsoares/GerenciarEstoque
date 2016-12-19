@@ -18,6 +18,7 @@
                 <li><a href="#">Gerenciar Estoque</a></li>        
                  <li><a href="#">Relatórios</a></li>            
                 <li><a href="#">Sobre</a></li>
+                  <li><a href="ProdutosSevlet?acao=AutenticaUsuario">Sair</a></li>
               </ul>
        
         </nav>
